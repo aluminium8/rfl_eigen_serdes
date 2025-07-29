@@ -1,5 +1,6 @@
 # rfl_eigen_serdes
 serialization/deserialization header lib with reflect-cpp
+This is header only library.
 
 Note: This library is not optimized about performance now. 
 
