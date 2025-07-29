@@ -1,12 +1,3 @@
-# rfl_eigen_serdes
-serialization/deserialization header lib with reflect-cpp
-
-Note: This library is not optimized about performance now. 
-
-Sample
-
-```C++:sample.cpp
-
 #include <string>
 
 #include <rfl.hpp>
@@ -53,4 +44,3 @@ int main() {
 
     return 0;
 }
-```
